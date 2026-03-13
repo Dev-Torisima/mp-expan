@@ -11,6 +11,8 @@ mp言語は十分な学習なしで日本語でもプログラミングができ
 ・Windows11
 ・それ以前の64bit版
 （注意：Web版には対応していません）
+
+-p（mp言語）仕様はhttps://torisima.f5.si/mp/ex/から
   
   
 # MinusP(mp-lang) extended support  
