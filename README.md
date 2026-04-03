@@ -1,4 +1,4 @@
-# MinusP（mp言語）拡張サポート  
+# mp言語（-p）拡張サポート  
 
 mp言語は十分な学習なしで日本語でもプログラミングができる言語です  
 この拡張は以下をサポートします  
@@ -13,10 +13,10 @@ mp言語は十分な学習なしで日本語でもプログラミングができ
 ・それ以前の64bit版  
 ・ウェブ 
 
--p（mp言語）仕様は https://torisima.f5.si/mp/ex/ からご確認ください  
+mp言語の仕様は https://torisima.f5.si/mp/ex/ からご確認ください  
   
   
-# MinusP(mp-lang) extended support  
+# mp-lang(-p) extended support  
 
 mp language is programming language without learning well.  
 This supports the following.  
